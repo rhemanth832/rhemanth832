@@ -76,23 +76,12 @@
 </div>
 
 ###
-<!--<img src="https://github-readme-stats.vercel.app/api/top-langs?username=tejaIG&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />-->
-
-![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?theme=dark)
-
 
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=rhemanth832&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-###
-
-###
-<!--<img src="https://github-readme-stats.vercel.app/api/top-langs?username=tejaIG&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />-->
-
-![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?theme=dark)
 ###
