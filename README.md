@@ -83,6 +83,5 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=rhemanth832&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?theme=dark)
-
 ###
+https://camo.githubusercontent.com/a390d52f2e3e973fde7363d27ce5f7047e06523229e8238a622f53fb8a41a3f5/68747470733a2f2f726561646d652d6461696c792d71756f7465732e76657263656c2e6170702f6170693f7468656d653d6461726b
