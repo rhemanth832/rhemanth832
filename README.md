@@ -1,5 +1,5 @@
 ![1747910229065](https://github.com/user-attachments/assets/4bab5498-50c8-4b7d-bfcf-cceb53c9b86a)
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey there 👋</h1>
 
 ###
 
@@ -23,7 +23,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">🛠 Language and tools</h2>
 
 ###
 
@@ -51,6 +51,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+</div>
+
+###
+
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=rhemanth832&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
