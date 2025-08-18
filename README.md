@@ -13,7 +13,7 @@
 
 <p align="left">I'm Rasamsetty Hemanth from Andhra Pradesh, India, a passionate tech enthusiast specializing in website development, cybersecurity, and no-code application creation.
 
-🔭 I’m working on True-Profile, a patented fake profile detection system.
+🔭 I’m working on "Verifying and Securing Digital Communication Profiles Using Biometric and Social Graph Integration" A Patented Project.
 
 📚 I'm currently learning AI, Full-Stack Development, and Emerging Tech Trends.
 
