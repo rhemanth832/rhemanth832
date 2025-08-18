@@ -1,8 +1,4 @@
 ![1747910229065](https://github.com/user-attachments/assets/4bab5498-50c8-4b7d-bfcf-cceb53c9b86a)
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
-
 ###
 
 <div align="center">
