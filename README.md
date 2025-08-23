@@ -6,11 +6,15 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://rhemanth.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=dribbble&label=&color=EA4C89&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="dribbble logo"  />
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=dribbble&label=&color=EA4C89&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Portfolio logo"  />
   </a>
   <a href="https://www.hackerrank.com/profile/22jr1a43g9" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
   </a>
+  <a href="https://leetcode.com/u/rasamsettyhemanth/" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=6cdjttfIiwc0&format=png&color=000000" height="25" alt="Leetcode Logo"  />
+  </a>
+  
 </div>
 
 ###
@@ -33,15 +37,13 @@
 
 ###
 
-<p align="left">I'm Rasamsetty Hemanth from Andhra Pradesh, India, a passionate tech enthusiast specializing in website development, cybersecurity, and no-code application creation.
+<p align="left">
+Dedicated tech enthusiast specializing in web development and cybersecurity, with a certified Salesforce background and hands-on experience in full-stack projects.  
+💡 Patented AI-based identity verification technology highlights my commitment to innovative problem-solving.  
+☁️ Skilled in leveraging cloud platforms, security tools, and programming languages to develop robust applications.  
+📚 Proactively engaged in continuous learning and leading-edge technology exploration to drive future-ready solutions.  
+</p>
 
-🔭 I’m working on "Verifying and Securing Digital Communication Profiles Using Biometric and Social Graph Integration" A Patented Project.
-
-📚 I'm currently learning AI, Full-Stack Development, and Emerging Tech Trends.
-
-🛠️ I’ve actively participated in internships, hackathons, and tech workshops.
-
-⚡ In my free time, I love experimenting with new technologies, building innovative projects, and exploring AI advancements.</p>
 
 ###
 
@@ -50,6 +52,8 @@
 ###
 
 <div align="left">
+  <img src="https://a.sfdcstatic.com/shared/images/c360-nav/salesforce-with-type-logo.svg" height="40" alt="c logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
