@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">My name is Rasamsetty Hemanth and I'm a Full Stack Developer | Cybersecurity Enthusiast | Patent Holder | Exploring AI, Cloud & No-Code to build secure and innovative solutions 🚀</p>
+<p align="left">My name is Rasamsetty Hemanth and I'm a Full Stack | Salesforce | Cybersecurity | Patent Holder - AI-Based Multi-Factor Biometric & Social Graph Profile Verification 🚀</p>
 
 ###
 
