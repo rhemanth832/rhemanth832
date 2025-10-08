@@ -52,72 +52,89 @@ Dedicated tech enthusiast specializing in web development and cybersecurity, wit
 ###
 
 <div align="left">
-  <div style="background:#111; padding:20px; display:flex; flex-wrap:wrap; gap:12px;">
+  <div style="
+  background:#111;
+  padding:20px;
+  display:flex;
+  flex-wrap:wrap;
+  gap:18px;
+  align-items:center;
+  justify-content:flex-start;
+">
 
   <!-- Salesforce -->
-  <img src="https://a.sfdcstatic.com/shared/images/c360-nav/salesforce-with-type-logo.svg" height="40" alt="salesforce logo" />
+  <img src="https://a.sfdcstatic.com/shared/images/c360-nav/salesforce-with-type-logo.svg" height="60" alt="salesforce logo" />
 
   <!-- C -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo" />
 
   <!-- Python -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo" />
 
   <!-- JavaScript -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo" />
 
   <!-- GNU -->
-  <img src="https://www.gnu.org/graphics/heckert_gnu.transp.small.png" height="40" alt="gnu logo" />
+  <img src="https://www.gnu.org/graphics/heckert_gnu.transp.small.png" height="60" alt="gnu logo" />
 
   <!-- GitHub -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo" />
 
   <!-- Windows 11 -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_11_logo.svg" height="40" alt="windows11 logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_11_logo.svg" height="60" alt="windows11 logo" />
 
   <!-- Metasploit -->
-  <img src="https://avatars.githubusercontent.com/u/373633?s=200&v=4" height="40" alt="metasploit logo" />
+  <img src="https://avatars.githubusercontent.com/u/373633?s=200&v=4" height="60" alt="metasploit logo" />
 
   <!-- Kali Linux -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" height="40" alt="kali linux logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" height="60" alt="kali linux logo" />
 
   <!-- Nmap -->
-  <img src="https://nmap.org/images/sitelogo-nmap.svg" height="40" alt="nmap logo" />
+  <img src="https://nmap.org/images/sitelogo-nmap.svg" height="60" alt="nmap logo" />
 
   <!-- Framer -->
-  <img src="https://seeklogo.com/images/F/framer-logo-DA1E33CAA1-seeklogo.com.png" height="40" alt="framer logo" />
+  <img src="https://seeklogo.com/images/F/framer-logo-DA1E33CAA1-seeklogo.com.png" height="60" alt="framer logo" />
 
   <!-- Canva -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Canva_Logo.svg/2560px-Canva_Logo.svg.png" height="40" alt="canva logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Canva_Logo.svg/2560px-Canva_Logo.svg.png" height="60" alt="canva logo" />
 
   <!-- Bubble.io -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Bubble_Logo.png" height="40" alt="bubble.io logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Bubble_Logo.png" height="60" alt="bubble.io logo" />
 
   <!-- Firebase -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="60" alt="firebase logo" />
 
   <!-- AI / Brain -->
-  <img src="https://cdn-icons-png.flaticon.com/512/4149/4149670.png" height="40" alt="machine learning logo" />
+  <img src="https://cdn-icons-png.flaticon.com/512/4149/4149670.png" height="60" alt="machine learning logo" />
 
   <!-- Django -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="60" alt="django logo" />
 
   <!-- HTML5 -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo" />
 
   <!-- CSS3 -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo" />
 
   <!-- MySQL -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo" />
 
   <!-- Google Cloud -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="60" alt="googlecloud logo" />
 
   <!-- VS Code -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo" />
 
 </div>
+
+<style>
+  div img {
+    transition: transform 0.2s ease;
+  }
+  div img:hover {
+    transform: scale(1.15);
+  }
+</style>
 
 
 ###
