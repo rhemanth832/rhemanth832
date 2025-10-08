@@ -88,10 +88,13 @@ Dedicated tech enthusiast specializing in web development and cybersecurity, wit
   <img width="12" />
   <img src="https://nmap.org/images/sitelogo-2x.png" height="40" alt="NMap"  />
   <img width="12" />
-  
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVSDDp23vLRiMiH2jMQ55xuTUs6EwED3G9hw&s" height="40" alt="Metasploit"  />
+  <img width="12" />
   <img src="https://msftstories.thesourcemediaassets.com/sites/612/2021/06/Hero-Bloom-Logo-800x533.jpg" height="40" alt="Windows"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Dall-e_3_%28jan_%2724%29_artificial_intelligence_icon.png/250px-Dall-e_3_%28jan_%2724%29_artificial_intelligence_icon.png" height="40" alt="AI"  />
+  <img width="12" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXw1e_BUF94tqvmJWuXqHzbCG-nP0ONdK4rA&s" height="40" alt="VScode"  />
   <img width="12" />
   
   
