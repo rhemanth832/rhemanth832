@@ -1,4 +1,4 @@
-![1747910229065](https://github.com/user-attachments/assets/4bab5498-50c8-4b7d-bfcf-cceb53c9b86a)
+<img width="1584" height="396" alt="Rasamsetty Hemanth Linkedin Banner" src="https://github.com/user-attachments/assets/9f1b3e40-2cf9-4445-b2fe-c7834796a01f" />
 ###
 
 <div align="center">
@@ -80,11 +80,8 @@ Dedicated Full-Stack Web Developer with hands-on experience building AI-powered 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/render/render-original.svg" height="40" alt="render logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutterflow/flutterflow-original.svg" height="40" alt="flutterflow logo" />
 </div>
 
 
