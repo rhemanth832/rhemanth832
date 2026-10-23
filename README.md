@@ -8,9 +8,7 @@
   <a href="https://rhemanth.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=dribbble&label=&color=EA4C89&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Portfolio logo"  />
   </a>
-  <a href="https://www.hackerrank.com/profile/22jr1a43g9" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
-  </a>
+  
   <a href="https://leetcode.com/u/rasamsettyhemanth/" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=6cdjttfIiwc0&format=png&color=000000" height="25" alt="Leetcode Logo"  />
   </a>
