@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">My name is Rasamsetty Hemanth and I'm a Full Stack | Salesforce | Cybersecurity | Patent Holder - AI-Based Multi-Factor Biometric & Social Graph Profile Verification 🚀</p>
+<p align="left">My name is Rasamsetty Hemanth and I'm a Full-Stack Developer | Java | OOP | DSA | SQL | Python | Patent Holder – AI-Based Multi-Factor Biometric & Social Graph Profile Verification | Salesforce Certified 🚀</p>
 
 ###
 
@@ -38,10 +38,13 @@
 ###
 
 <p align="left">
-Dedicated tech enthusiast specializing in web development and cybersecurity, with a certified Salesforce background and hands-on experience in full-stack projects.  
-💡 Patented AI-based identity verification technology highlights my commitment to innovative problem-solving.  
-☁️ Skilled in leveraging cloud platforms, security tools, and programming languages to develop robust applications.  
-📚 Proactively engaged in continuous learning and leading-edge technology exploration to drive future-ready solutions.  
+Dedicated Full-Stack Web Developer with hands-on experience building AI-powered web applications and a strong foundation in Java, OOP, DSA, SQL, HTML, CSS, JavaScript, and backend development.
+
+💡 Patent holder for AI-based identity verification, demonstrating a commitment to innovation and problem-solving.
+
+💻 Skilled in developing web applications using relational databases and following Git/GitHub-based development workflows.
+
+📚 Passionate about software development, continuous learning, and exploring emerging technologies to build efficient and reliable solutions.
 </p>
 
 
